@@ -3,6 +3,8 @@ Animated Bubbles Landing Page
 
 Welcome to my project, the Animated Bubbles Landing Page! This project leverages the power of CSS animations and HTML5 to create an engaging and dynamic landing page.
 
+[View Demo](https://chimerical-alfajores-7ebd95.netlify.app/)
+
 Description
 -----------
 The landing page features a background of animated bubbles, created using CSS keyframes and animation properties, which gives the webpage an interactive and lively feel.
